@@ -5,16 +5,13 @@
 			<div class="col-12">
 				<h3>Menu</h3>
 				<h3>
-					<td><a href="listaP">Consultar lista de productos</a></td>
+					<a href="listaP">Consultar lista de productos</a>
 				</h3>
 				<h3>
-					<td><a href="listaProv">Consultar proveedores</a></td>
+					<a href="listaProv">Consultar proveedores</a>
 				</h3>
 			</div>
 		</div>
-	</div>
-
-	<div class="container">
 		<div class="row">
 			<div class="col-6">
 				<h2>Productos</h2>
