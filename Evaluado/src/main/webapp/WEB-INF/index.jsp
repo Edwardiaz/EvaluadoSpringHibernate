@@ -12,9 +12,6 @@
 				</h3>
 			</div>
 		</div>
-	</div>
-
-	<div class="container">
 		<div class="row">
 			<div class="col-6">
 				<h2>Productos</h2>

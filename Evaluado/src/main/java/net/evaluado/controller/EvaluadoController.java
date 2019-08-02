@@ -66,7 +66,7 @@ public class EvaluadoController {
 		prod.setIdProv(idProveedor);
 		proDao.insertarProducto(prod);
 
-		return "redirect:/index";
+		return "index";
 	}
 
 	@RequestMapping("/listaP")
@@ -82,7 +82,7 @@ public class EvaluadoController {
 	public String eliminarProducto(@PathVariable("idProducto") int id) {
 		ProductoDao proDao = new ProductoDao();
 		proDao.eliminarProducto(id);
-		return "redirect:/productosMostrar";
+		return "productosMostrar";
  
 	}
 
